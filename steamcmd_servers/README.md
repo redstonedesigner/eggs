@@ -110,3 +110,7 @@ This is a collection of servers that use SteamCMD to install.
 
 ## Unturned
 [Unturned](unturned)
+
+## Valheim
+[Valheim Vanilla](valheim_vanilla)
+[Valheim Plus Mod](valheim_plus)
